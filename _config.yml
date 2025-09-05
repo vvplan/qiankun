@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 中文博客模板
-description: 便捷实用的Jupyter博客网站。此外，还支持 Word 文档，以及 Markdown。
-github_username: EasonQYS  # 你的用户名
+title: 虚谷计划之乾坤板
+description: 乾坤板，由上海交通大学胡岳和温州科技高级中学谢作如发起的开源硬件，为中小学创客教育、STEAM教育定制。
+github_username: xiezuoru  # 你的用户名
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpagesJupyter" #你的仓库名
+github_repo: "qiankun" #你的仓库名
 
 # OPTIONAL: override baseurl and url if using a custom domain 可选项，如果你有自己的域名，并且需要绑定到该网站
 # Note: leave out the trailing / from this value.  写下域名，不要在最后加斜杠/ 
